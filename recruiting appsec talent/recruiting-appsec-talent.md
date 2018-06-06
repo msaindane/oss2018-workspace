@@ -28,6 +28,22 @@
 
 # Notes to facilitate conversations
 
+# Trigger Questions
+* What can be done to improve the talent pool?
+* What should the career path be for developers who want to move into security?
+* How can hiring managers efficiently judge a candidate’s abilities and potential?
+* What are common career paths into AppSec and InfoSec? How can newbies break into the field, and how can senior practitioners advance?
+* What do people in an AppSec role do in their day to day job roles?
+* What is the best way to connect employees and employers?
+* Explore the concept of working two days a week on a specific project (while employed by another company)
+* What is the role of universities and work placements?
+* How can a candidate show their worth to a prospective employer, without violating NDAs from their previous work?
+* How to make an employer, and specific positions, more attractive
+* What can be done to improve morale and increase retention?
+* What effects do globalisation and remote working technologies have on recruitment?
+
+---
+
 ## What are the typical AppSec Roles?
 Roles in AppSec can be split into the following
 * AppSec contibutor
@@ -62,26 +78,22 @@ Could use the [SFIA framework](https://www.sfia-online.org/en/sfia-7) to define 
 ---
 
 ## How to hire AppSec candidates? - Recruiting Guidance
-* Train your interviewers
-    * Interview for success - do not make it tough for the candidate. Don’t let candidates believe they are failing
-    * Draft a checklist for interviewers
+* Create a job description
 * Review resumes
     * What show we look for when reviewing Resumes?
     * Qualification / Certifications?
+* Train your interviewers
+    * Interview for success - do not make it tough for the candidate. Don’t let candidates believe they are failing
+    * Draft a checklist for interviewers
 * Use structured interviewing
     * Develop pre-made high-quality questions on various security topics, with sample answers and bonus answers, etc.
     * Recording comprehensive feedback of candidate answers
     * Scoring with standardized rubrics
     * Providing interviewer training and calibration
-* Create a job description
+* Develop Practical Test Modules
+    * build vulnerable applications or sample vulns
+    * vulnerable pieces of code - possibly from security bugs you have come across apps in your organisation
+    * test candidates on their capabilities to exploit vuln apps
+    * test candidates on their capabilities to fix insecure code
 
 See Google re:Work in the references below.
-
----
-
-# Trigger Questions
-* What can be done to improve the talent pool?
-* What should the career path be for developers who want to move into security?
-* How can hiring managers efficiently judge a candidate’s abilities and potential?
-* What are common career paths into AppSec and InfoSec? How can newbies break into the field, and how can senior practitioners advance?
-* What do people in an AppSec role do in their day to day job roles?
