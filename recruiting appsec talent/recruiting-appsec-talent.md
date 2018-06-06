@@ -68,12 +68,14 @@ Could use the [SFIA framework](https://www.sfia-online.org/en/sfia-7) to define 
     * Penetration testing
     * Secure Code Reviews
     * Write (and teach others) security unit test cases
+    * Review bug-bounty findings
 * Leadership
     * Mentoring
     * Softskills
     * Develop security strategies, present to executive levels and secure management buy-in
     * Ability to map security requirements to business need
     * Manage and oversee multiple projects / people
+    * Build and manage AppSec programs and strategies
 
 ---
 
@@ -94,6 +96,6 @@ Could use the [SFIA framework](https://www.sfia-online.org/en/sfia-7) to define 
     * build vulnerable applications or sample vulns
     * vulnerable pieces of code - possibly from security bugs you have come across apps in your organisation
     * test candidates on their capabilities to exploit vuln apps
-    * test candidates on their capabilities to fix insecure code
+    * test candidates on their capabilities to identify/fix insecure code
 
-See Google re:Work in the references below.
+See [Google re:Work](https://rework.withgoogle.com/subjects/hiring/) in the references below.
